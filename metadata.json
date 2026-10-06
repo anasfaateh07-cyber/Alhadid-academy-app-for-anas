@@ -1,0 +1,6 @@
+{
+  "name": "Al Hadid Academy",
+  "description": "Complete Campus, Hifz-ul-Quran, Academics, Attendance & Fee Management Portal for Al Hadid Academy Nasirabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

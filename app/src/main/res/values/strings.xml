@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Al Hadid Academy</string>
+    <string name="academy_full_title">Al Hadid Academy Nasirabad</string>
+    <string name="academy_subtitle">Center of Quranic Sciences, Hifz &amp; Modern Education</string>
+    <string name="academy_arabic_motto">خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ</string>
+    <string name="academy_motto_translation">The best among you are those who learn the Qur\'an and teach it</string>
+    <string name="nav_dashboard">Home</string>
+    <string name="nav_students">Students</string>
+    <string name="nav_hifz">Hifz &amp; Exams</string>
+    <string name="nav_attendance">Attendance</string>
+    <string name="nav_fees">Fees &amp; Notice</string>
+    <string name="version_badge">v2.1-Production-Real (Build 11)</string>
+    <string name="package_badge">com.alhadid.academy.nasirabad</string>
+    <string name="hero_banner_desc">Al Hadid Academy Nasirabad Campus Courtyard</string>
+</resources>
